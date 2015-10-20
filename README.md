@@ -42,6 +42,7 @@
 
 Note: to import ```jabref``` to Eclipse you first need to install the
 ```Gradle``` plugin for Eclipse. [Gradle Plugin for Eclipse](https://marketplace.eclipse.org/content/gradle-integration-eclipse-0)
+
 1. Open [](https://marketplace.eclipse.org/content/gradle-integration-eclipse-0)
 2. Drag and drop the ```Install``` to your Eclipse workspace
 3. Import ```jabref``` project
