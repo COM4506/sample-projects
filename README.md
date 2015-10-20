@@ -4,11 +4,6 @@
 
 ## Projects for testing
 
-### Makagiga
-
-* URL: [Makagiga homepage](http://makagiga.sourceforge.net/)
-* Source code: ```svn checkout svn://svn.code.sf.net/p/makagiga/code/trunk/makagiga makagiga-code```
-* Main class: ```org.makagiga.Main```
 
 ### Rachota
 
@@ -22,6 +17,9 @@
 
 ### freemind
 
+* URL: [FreeMind homepage](http://freemind.sourceforge.net/)
+* Source code: ```git clone git://git.code.sf.net/p/freemind/code freemind-code```
+* Main class: ```freemind.main.FreeMindStarter```
 
 
 ### jMemorize
