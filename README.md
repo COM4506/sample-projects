@@ -24,7 +24,7 @@
 
 ### jMemorize
 
-* URL: [FreeMind homepage](http://sourceforge.net/projects/jmemorize/)
+* URL: [jMemorize homepage](http://sourceforge.net/projects/jmemorize/)
 * Source code: ```svn checkout http://svn.code.sf.net/p/jmemorize/svn/trunk jmemorize-svn```
 * Main class: ```jmemorize.core.Main```
 
@@ -53,4 +53,11 @@ Note: to import ```jabref``` to Eclipse you first need to install the
 * URL: [jpass homepage](https://github.com/gaborbata/jpass)
 * Source code: ```git clone git@github.com:gaborbata/jpass.git```
 * Main class: ```jpass.JPass```
+
+
+### Pooka
+
+* URL: [Pooka homepage](http://www.suberic.net/pooka/)
+* Source code: ```svn checkout http://svn.code.sf.net/p/pooka/code/trunk pooka-code```
+* Main class: ```net.suberic.pooka.Pooka```
 
