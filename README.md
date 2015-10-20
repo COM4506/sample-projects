@@ -24,6 +24,9 @@
 
 ### jMemorize
 
+* URL: [FreeMind homepage](http://sourceforge.net/projects/jmemorize/)
+* Source code: ```svn checkout http://svn.code.sf.net/p/jmemorize/svn/trunk jmemorize-svn```
+* Main class: ```jmemorize.core.Main```
 
 
 ### jTimeSched
